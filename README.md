@@ -2,7 +2,7 @@
 
 This week we will practice how to create geometric objects using Shapely module and how to find out different useful attributes from those geometries. We will take advantage of what we have learned earlier, especially functions. We will create small functions that we can reuse later on when continuing with GIS analysis in python. We will also use pandas to read data from a file.
 
-- **Exercise 1 is due by Monday the 5th of November at 4pm (before the next lesson)**.
+- **Exercise 1 is due by 16:00 on Wednesday the 6th of November 2019 (day before the next practical session)**.
 
 - Don't forget to check out the [hints for this week's exercise](https://automating-gis-processes.github.io/site/lessons/L1/exercise-1.html) if you're having trouble.
 
